@@ -1,0 +1,140 @@
+
+    [
+          {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Classics",
+            "published_year": 1960,
+            "ISBN": "978-0-06-112008-4",
+            "description": "A classic novel that explores themes of racial injustice and moral growth in the American South during the 1930s.",
+            "rating": 4.5
+          },
+          {
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "published_year": 1949,
+            "ISBN": "978-0-452-28423-4",
+            "description": "A dystopian novel set in a totalitarian society, where the government monitors and controls every aspect of people's lives.",
+            "rating": 4.6
+          },
+          {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Classics",
+            "published_year": 1925,
+            "ISBN": "978-0-7432-7356-5",
+            "description": "A story of decadence, idealism, and obsession in the Roaring Twenties, narrated by Nick Carraway.",
+            "rating": 4.2
+          },
+          {
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "genre": "Fantasy",
+            "published_year": 1997,
+            "ISBN": "978-0-545-01022-1",
+            "description": "The first book in the Harry Potter series, introducing readers to the world of magic and Hogwarts School of Witchcraft and Wizardry.",
+            "rating": 4.8
+          },
+          {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "published_year": 1813,
+            "ISBN": "978-1-59308-078-7",
+            "description": "A timeless love story featuring the headstrong Elizabeth Bennet and the proud Mr. Darcy.",
+            "rating": 4.4
+          },
+          {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Coming of Age",
+            "published_year": 1951,
+            "ISBN": "978-0-316-76948-0",
+            "description": "Follow the adventures of Holden Caulfield as he navigates the challenges of adolescence and adulthood.",
+            "rating": 4.0
+          },
+          {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "published_year": 1937,
+            "ISBN": "978-0-261-10295-7",
+            "description": "Join Bilbo Baggins on his unexpected journey to help a group of dwarves reclaim their homeland from the dragon Smaug.",
+            "rating": 4.7
+          },
+          {
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "genre": "Dystopian",
+            "published_year": 1932,
+            "ISBN": "978-0-06-085052-4",
+            "description": "A vision of a future society characterized by advanced technology, social stability, and a lack of individuality.",
+            "rating": 4.3
+          },
+          {
+            "title": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "genre": "Dystopian",
+            "published_year": 2008,
+            "ISBN": "978-0-439-02348-1",
+            "description": "In a dystopian world, Katniss Everdeen must participate in a televised fight to the death as a symbol of resistance.",
+            "rating": 4.2
+          },
+          {
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "published_year": 1954,
+            "ISBN": "978-0-345-33970-6",
+            "description": "The first part of the epic journey to destroy the One Ring and save Middle-earth from the dark lord Sauron.",
+            "rating": 4.5
+          },
+          {
+            "title": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "genre": "Dystopian",
+            "published_year": 1985,
+            "ISBN": "978-0-385-49081-8",
+            "description": "In a totalitarian society, women are subjugated and used for reproductive purposes, and one woman seeks to escape.",
+            "rating": 4.1
+          },
+          {
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "genre": "Dystopian",
+            "published_year": 1953,
+            "ISBN": "978-1-4516-7331-9",
+            "description": "A story set in a future where books are banned and burned, and one man's journey to preserve knowledge and culture.",
+            "rating": 4.4
+          },
+          {
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "genre": "Philosophical",
+            "published_year": 1988,
+            "ISBN": "978-0-06-112241-4",
+            "description": "Follow Santiago's journey across the desert to discover his Personal Legend and fulfill his dreams.",
+            "rating": 4.0
+          },
+          {
+            "title": "Gone with the Wind",
+            "author": "Margaret Mitchell",
+            "genre": "Historical Fiction",
+            "published_year": 1936,
+            "ISBN": "978-1-4165-4367-6",
+            "description": "A sweeping epic set during the American Civil War, featuring the headstrong Scarlett O'Hara.",
+            "rating": 4.2
+          },
+          {
+            "title": "The Shining",
+            "author": "Stephen King",
+            "genre": "Horror",
+            "published_year": 1977,
+            "ISBN": "978-0-385-12167-5",
+            "description": "A terrifying story of a family's descent into madness while isolated in a haunted hotel during the winter.",
+            "rating": 4.2
+          }
+    ]
+
+
